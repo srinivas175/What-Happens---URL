@@ -24,7 +24,7 @@ The Domain Name System maintains the name of the website (URL) and the particula
 - If the DNS server is on a different subnet, the network library follows the ARP process below for the default gateway IP.
 ## Step-5
 **Opening Socket**
-- Once the DNS fetches the IP Address of the required server, it takes that and the given port number from the URL ( For **HTTP protocol** - **Port 80**, and **HTTPS** - **Port 443**), and makes a call to the system library function named socket and requests a **TCP socket stream**
+Once the DNS fetches the IP Address of the required server, it takes that and the given port number from the URL ( For **HTTP protocol** - **Port 80**, and **HTTPS** - **Port 443**), and makes a call to the system library function named socket and requests a **TCP socket stream**
 ## Step-6
 **TCP Connection Handshake**
 1. The server creates the listener socket that is waiting for remote clients to connect.
