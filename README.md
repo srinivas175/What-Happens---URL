@@ -1,4 +1,4 @@
-# What-Happens---URL
+# What happens when URL is typed in browser 
 A Summary on what happens when a URL is typed in browser
 ## Description
 The URL requests and the process of how browser accepts the URL and handles it, how information is rendered from the specified url's server are briefed as steps in this article.
