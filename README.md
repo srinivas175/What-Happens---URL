@@ -2,7 +2,8 @@
 A Summary on what happens when a URL is typed in browser
 ## Description
 The URL requests and the process of how browser accepts the URL and handles it, how information is rendered from the specified url's server are briefed as steps in this article.
-## 1. When we enter text in the address bar of browser
+## Step - 1
+### When we enter text in the address bar of browser
 While entering the text in the URl bar or search bar of the browser, it receives the event and starts auto-complete function.Depending on browser's algorithm various suggestions will be presented in the dropbox below the URL bar. Most of these algorithms sort and prioritize results based on search history, bookmarks, cookies, and popular searches from the internet as a whole. It may even suggest "google.com" before you finish typing it.
 ## 2. Parsing the URL
 The browser adds the **_https:_** or **_http_** to the URL as a protocol as a part of parsing
